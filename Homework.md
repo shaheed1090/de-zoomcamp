@@ -13,18 +13,19 @@ Docker SQL Homeworks
 
 
 
-
-
 **Question 2. Understanding docker first run**
 Run docker with the python:3.9 image in an interactive mode and the entrypoint of bash. Now check the python modules that are installed ( use pip list). How many python packages/modules are installed?
 
 Answer: 3
+
+![image](https://user-images.githubusercontent.com/25481135/215389944-2560d022-b930-4ceb-b2c8-d14362911171.png)
 
 
 
 **Question 3 : How many taxi trips were totally made on January 15?**
 
 Answer: 20530
+
 select count(*) from green_taxi_data gtd
 where cast(gtd.lpep_pickup_datetime as date) = '2019-01-15'
 and cast(gtd.lpep_dropoff_datetime as date) = '2019-01-15'
@@ -35,6 +36,7 @@ and cast(gtd.lpep_dropoff_datetime as date) = '2019-01-15'
 **Question 4. Largest trip for each day**
 
 Answer: 2019-01-15
+
 select 
 distinct(cast(gtd."lpep_pickup_datetime" as date)) as trip_date,
 MAX(trip_distance) as trip_distance
