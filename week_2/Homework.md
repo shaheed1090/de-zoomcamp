@@ -7,3 +7,6 @@ Using the etl_web_to_gcs.py flow that loads taxi data into GCS as a guide, creat
 How many rows does that dataset have?
 
 Answer: 447,770
+
+![Screenshot 2023-02-03 223629](https://user-images.githubusercontent.com/25481135/216664073-77db1f03-9131-48e1-8a3d-28e84583c8d4.png)
+
