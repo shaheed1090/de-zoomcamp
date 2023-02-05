@@ -25,3 +25,6 @@ Create a deployment for this flow to run in a local subprocess with local flow c
 Make sure you have the parquet data files for Yellow taxi data for Feb. 2019 and March 2019 loaded in GCS. Run your deployment to append this data to your BiqQuery table. How many rows did your flow code process?
 
 Answer : 14,851,920
+
+![image](https://user-images.githubusercontent.com/25481135/216828290-558ef682-4c26-44e6-b6aa-27054fe3f9b3.png)
+
