@@ -26,5 +26,11 @@ Make sure you have the parquet data files for Yellow taxi data for Feb. 2019 and
 
 Answer : 14,851,920
 
+code flow execution:
 ![image](https://user-images.githubusercontent.com/25481135/216828290-558ef682-4c26-44e6-b6aa-27054fe3f9b3.png)
+
+Deployment:
+![image](https://user-images.githubusercontent.com/25481135/216828672-c62a9f84-a86a-4fad-b7b4-ab7e53ba79c5.png)
+
+
 
