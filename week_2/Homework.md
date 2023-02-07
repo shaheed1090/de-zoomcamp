@@ -32,5 +32,15 @@ code flow execution:
 Deployment:
 ![image](https://user-images.githubusercontent.com/25481135/216828672-c62a9f84-a86a-4fad-b7b4-ab7e53ba79c5.png)
 
+*Question 4. Github Storage Block*
+
+Run your deployment in a local subprocess (the default if you don’t specify an infrastructure). Use the Green taxi data for the month of November 2020.
+How many rows were processed by the script?
+
+Answer : 88,605
+
+![image](https://user-images.githubusercontent.com/25481135/217321313-21c9134e-3dcc-4235-a0d5-e570cb6c70a0.png)
+
+
 
 
