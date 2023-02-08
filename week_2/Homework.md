@@ -47,6 +47,19 @@ Prefect - Flow Runs
 
 deployment code kept under - week_2/github_flow 
 
+*Question 5. Email or Slack notifications*
+
+Answer : 514,392
+
+Email notification -
+![image](https://user-images.githubusercontent.com/25481135/217454804-1f2decbe-91c7-4cea-b5fa-1b4304284058.png)
+
+Automations created -
+![image](https://user-images.githubusercontent.com/25481135/217454988-d2beb71d-61cb-40af-9ee1-ccc6c6db45bf.png)
+
+
+
+
 
 
 
