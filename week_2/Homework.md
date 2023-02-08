@@ -57,6 +57,14 @@ Email notification -
 Automations created -
 ![image](https://user-images.githubusercontent.com/25481135/217454988-d2beb71d-61cb-40af-9ee1-ccc6c6db45bf.png)
 
+*Question 6. Secrets*
+how many characters are shown as asterisks (*) on the next page of the UI?
+
+Answer : 8
+
+![image](https://user-images.githubusercontent.com/25481135/217457554-8897eb24-bc85-45c5-9b47-87ec87964cae.png)
+
+
 
 
 
