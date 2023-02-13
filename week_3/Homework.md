@@ -33,4 +33,22 @@ What is the best strategy to optimize the table if query always filter by pickup
 
 Answer : Partition by pickup_datetime Cluster on affiliated_base_number
 
+**Question 5:**
 
+Implement the optimized solution you chose for question 4. Write a query to retrieve the distinct affiliated_base_number between pickup_datetime 2019/03/01 and 2019/03/31 (inclusive).
+Use the BQ table you created earlier in your from clause and note the estimated bytes. Now change the table in the from clause to the partitioned table you created for question 4 and note the estimated bytes processed. What are these values? Choose the answer which most closely matches.
+
+Answer : 
+
+**Question 6:**
+
+Where is the data stored in the External Table you created?
+
+Answer : GCP Bucket
+
+
+**Question 7:**
+
+It is best practice in Big Query to always cluster your data:
+
+Answer : False
