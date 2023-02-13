@@ -27,4 +27,10 @@ Answer : 717,748
 
 ![image](https://user-images.githubusercontent.com/25481135/218505661-86459f96-d1d4-4edc-a044-be12b41d58e2.png)
 
+**Question 4:**
+
+What is the best strategy to optimize the table if query always filter by pickup_datetime and order by affiliated_base_number?
+
+Answer : Partition by pickup_datetime Cluster on affiliated_base_number
+
 
