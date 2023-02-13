@@ -19,3 +19,12 @@ Answer : 0 MB for the External Table and 317.94MB for the BQ Table
 
 ![image](https://user-images.githubusercontent.com/25481135/218502089-387ce472-78ba-4f82-a38e-11e561436916.png)
 
+**Question 3:**
+
+How many records have both a blank (null) PUlocationID and DOlocationID in the entire dataset?
+
+Answer : 717,748
+
+![image](https://user-images.githubusercontent.com/25481135/218505661-86459f96-d1d4-4edc-a044-be12b41d58e2.png)
+
+
