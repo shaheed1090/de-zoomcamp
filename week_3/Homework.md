@@ -40,6 +40,13 @@ Use the BQ table you created earlier in your from clause and note the estimated 
 
 Answer : 
 
+Non-partitioned,
+![image](https://user-images.githubusercontent.com/25481135/218530325-539094fa-8abf-41f9-be52-d3963bd87573.png)
+
+Partitioned,
+
+
+
 **Question 6:**
 
 Where is the data stored in the External Table you created?
