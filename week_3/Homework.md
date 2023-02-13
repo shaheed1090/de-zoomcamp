@@ -41,12 +41,13 @@ Answer : Partition by pickup_datetime Cluster on affiliated_base_number
 Implement the optimized solution you chose for question 4. Write a query to retrieve the distinct affiliated_base_number between pickup_datetime 2019/03/01 and 2019/03/31 (inclusive).
 Use the BQ table you created earlier in your from clause and note the estimated bytes. Now change the table in the from clause to the partitioned table you created for question 4 and note the estimated bytes processed. What are these values? Choose the answer which most closely matches.
 
-Answer : 
+Answer : 647.87 MB for non-partitioned table and 23.06 MB for the partitioned table
 
 Non-partitioned,
 ![image](https://user-images.githubusercontent.com/25481135/218530325-539094fa-8abf-41f9-be52-d3963bd87573.png)
 
 Partitioned,
+![image](https://user-images.githubusercontent.com/25481135/218538954-0c19c962-96f8-4f24-9b86-9ccbd1fad6df.png)
 
 
 
