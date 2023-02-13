@@ -33,6 +33,9 @@ What is the best strategy to optimize the table if query always filter by pickup
 
 Answer : Partition by pickup_datetime Cluster on affiliated_base_number
 
+![image](https://user-images.githubusercontent.com/25481135/218538051-6e216fbb-119c-43e5-b00a-edebde160323.png)
+
+
 **Question 5:**
 
 Implement the optimized solution you chose for question 4. Write a query to retrieve the distinct affiliated_base_number between pickup_datetime 2019/03/01 and 2019/03/31 (inclusive).
